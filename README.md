@@ -138,7 +138,7 @@ TinyUSB
 PlatformIO
 📘 Getting Started
 Clone Repository
-git clone https://github.com/yourusername/RP2040_DEV.git
+git clone https://github.com/harsh-hw-dev/RP2040_DEV.git
 Open Hardware Files
 
 Open the project using:
